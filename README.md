@@ -11,10 +11,3 @@ powershell代码可手动执行，也可计划任务执行
 离职用户所在组表leftusergroup，记录离职用户之前所在的组。
 
 
-CREATE TABLE [dbo].[leftUser](
-    [lid] [int] NULL,                      ---i
-    [wid] [varchar](3) NULL,        --工号
-    [workStatus] [bit] NULL,        --是否离职
-    [aduser] [nvarchar](5) NULL     --ad账号
-) ON [PRIMARY]
-GO

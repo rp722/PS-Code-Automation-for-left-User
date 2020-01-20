@@ -13,7 +13,8 @@ powershell代码建议在AD中可手动执行，也可计划任务执行
 
 ---------------------------------------------------------------------------------------------
 
-Ps code make a efficient way to deal with left user in AD and save some user information to the database
+Ps code make a efficient way to deal with left user in AD and save some user information to the database.
+
 This Code is recommended to be executed manually in AD, or put it in the scheduled.
 
 

@@ -11,4 +11,9 @@ powershell代码建议在AD中可手动执行，也可计划任务执行
 离职员工表leftuser结构如下，前提有工号和ad账号的对应关系表
 离职用户所在组表leftusergroup，记录离职用户之前所在的组。
 
+---------------------------------------------------------------------------------------------
+
+Ps code make a efficient way to deal with left user in AD and save some user information to the database
+This Code is recommended to be executed manually in AD, or put it in the scheduled.
+
 
